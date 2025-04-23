@@ -1,1 +1,1 @@
-Solutions to competitive programming questions on Leetcode.
+Solutions to competitive programming problems on Leetcode.
